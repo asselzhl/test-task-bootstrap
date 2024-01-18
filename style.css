@@ -1,0 +1,42 @@
+.custom-gutter {
+    margin: 30px;
+}
+
+.custom-card {
+    border-radius: 20px;
+    border: 0.7px solid #FFC107;
+}
+
+.custom-button {
+    border-radius: 15px;
+    background: linear-gradient(90deg, #FDD446 0%, #F69B47 100%);
+}
+
+.form {
+    width: 70%;
+}
+
+ul {
+    list-style: none;
+    margin-left: 0;
+    padding-left: 0!important;
+}
+
+.page-item:not(:last-child) {
+    margin-right: 30px;
+}
+
+footer {
+    background-color: #FDD446;
+    margin-top: 80px;
+    padding-bottom: 100px;
+}
+.line {
+    width: 100%;
+    height: 1px;
+    background: rgba(0, 0, 0, 0.50);
+}
+
+.position-absolute {
+    top: 8px
+}
